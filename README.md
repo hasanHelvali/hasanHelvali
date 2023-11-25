@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Helvalı</h1>
 <h3 align="center">A passionate full-stack developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on **Angular and Asp.Net Core Web API Architetures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
